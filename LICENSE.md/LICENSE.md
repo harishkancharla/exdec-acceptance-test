@@ -1,0 +1,1 @@
+Export declaration project rights
